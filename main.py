@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from telethon import TelegramClient, events
 from telethon.errors import FloodWaitError
 
-# Load environment variables from .env file (credentials)
+# Load environment variables from .env file (credentials) 
 load_dotenv()
 
 # Credentials
